@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>${content.title}</title>
+</head>
+<body>
+  <!--  main content -->
+  <main>${content.document.body}</main>
+</body>
+</html>
